@@ -1,1 +1,3 @@
 # Smart-City-Project
+Smart City is a application based software developed in Java programming language to store the details of a city. The main purpose of this project to help the tourists and other visitors to the city by providing information about hotels, city attractions, etc. 
+Everyday a large number of people are coming to all the cities seeking job, higher studies, tourism, etc. Initially all the system of the city are unknown to the new comers of the city. They don’t know much about booking hotel, transportation, shopping, etc. But implementation of Smart City Java Project provides the complete solution package for new comers. One can see all the necessary information about city through this application.
